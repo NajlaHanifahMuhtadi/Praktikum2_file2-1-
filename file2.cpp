@@ -13,3 +13,7 @@ void input(){
 float jumlah(float a, float b, float c){
     return a + b + c;
 }
+
+int luasPersegi(){
+    
+}
