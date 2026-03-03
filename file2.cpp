@@ -19,6 +19,6 @@ int luasPersegiP(int a, int b){
 }
 
 int output(){
-    cout << "Hasilnya = ";
-    cout << "terimakasih";
+    cout << "Hasilnya = " << luasPersegiP(p, l)  << endl;
+    cout << "terimakasih" << endl;
 }
