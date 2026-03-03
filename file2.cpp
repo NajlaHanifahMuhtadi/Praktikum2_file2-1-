@@ -15,5 +15,6 @@ float jumlah(float a, float b, float c){
 }
 
 int luasPersegi(){
-    
+    cout << "Hasilnya = ";
+    cout << "terimakasih";
 }
