@@ -14,7 +14,11 @@ float jumlah(float a, float b, float c){
     return a + b + c;
 }
 
-int luasPersegi(){
+int luasPersegiP(int a, int b){
+    return a*b;
+}
+
+int output(){
     cout << "Hasilnya = ";
     cout << "terimakasih";
 }
